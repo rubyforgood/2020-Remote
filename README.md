@@ -16,6 +16,7 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
  
 * Github: https://github.com/orgs/rubyforgood/teams/diaper/repositories
 * Slack channel: #diaper 
+* Project duration: All of April
 
 ### Free Forrest School
 
@@ -24,5 +25,8 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 
 ### TerraStories
 
+Indigenous people have lived in the Amazon rainforest in South America for thousands of years, and continue to do so today. Nearly two-fifth of the Amazon region is settled by indigenous and other traditional communities, who live sustainably off the forest and its natural resources. Many of today’s communities have lived in their territories for centuries, and have an intimate relationship with their ancestral lands. Community members share a richly detailed knowledge about places like sacred, spiritual and historical sites, which can count up to hundreds in number and comprise an incredible geography central to the communities’ collective identity. But this traditional knowledge is primarily transmitted orally, and in the contemporary era is at risk of disappearing forever. To prevent this from happening, the Amazon Conservation Team (ACT) is partnering with the indigenous people of the Amazon to map their lands and record oral history storytelling. ACT is training youth to use mapping technologies and interview their elders so they can preserve their cultural and historical legacy for future generations to come. Using the latest tools in web mapping, we can visualize these recordings by placing them on an interactive map. However, in order to bring this back to the communities in the rainforest, we need a geostorytelling portal that can function entirely in an offline setting. ACT will use TerraStories for its active oral histories projects with partner communities, but the application will be entirely open source and shared with any community who wants to document their own place-based storytelling. We'll be focusing on building out reusability for other communities and organizations to use the system.
+
 * Github: 
-* Slack channel: #
+* Slack channel: #terrastories
+* Project duration: All of April
