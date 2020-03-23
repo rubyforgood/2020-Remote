@@ -1,4 +1,4 @@
-# 2020 Ruby For Good By The Bay Projects
+# 2020 Ruby For Good - Remote
 
 ### CASA
 
