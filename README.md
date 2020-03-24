@@ -25,10 +25,15 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 * Slack channel: #diaper 
 * Project duration: All of April
 
-### Free Forrest School
+### Free Forest School
+What if kids could learn while playing outdoors?  They can!  Research shows unstructured play is greatly beneficial to children's development.  Free Forest School organizes local chapters to support children explore and learn while outdoors.
 
-* Github: 
-* Slack channel: #
+Our project will help parents and teachers (or maybe even kids!) find Free Forest School service areas wherever they might be.  We're going to use Mapbox, so if you've ever wanted to learn some GIS work with your Rails and/or JavaScript, or played hooky to be in the great outdoors, this project is for you!
+
+* Github: https://github.com/rubyforgood/freeforest
+* Slack channel: 
+* Team leads: `@Albert` + `@Brandon Weaver`
+* Project duration: 
 
 ### TerraStories
 
