@@ -7,8 +7,13 @@
 
 ### Pinto Abalone
 
-* Github: 
-* Slack channel: #abalone
+Abalones are marine mollusks that were once hunted nearly to extinction, and are slowly making a comeback thanks to diligent conservancy efforts.  Abalone conservationists release captive-bred animals to bolster wild populations -- but how do they know which animal pairings will make the most and hardiest abalone babies, or reduce inbreeding dangers?  Your code will directly support these conservancy challenges!
+
+From a technical standpoint, we'll be building on existing work for one subspecies, and our challenges will include multi-tenancy.  Who doesn't love a good multi-tenancy project under their belt?  We need both JavaScript and Rails developers.
+
+* Github: https://github.com/rubyforgood/abalone/
+* Slack channel: #pinto-abalone
+* Team leads: `@corneliusellen` + `@Wise Emily`
 
 ### Diaperbase
 
