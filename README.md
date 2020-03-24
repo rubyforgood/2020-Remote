@@ -14,6 +14,7 @@ From a technical standpoint, we'll be building on existing work for one subspeci
 * Github: https://github.com/rubyforgood/abalone/
 * Slack channel: #pinto-abalone
 * Team leads: `@corneliusellen` + `@Wise Emily`
+* Project duration: weekend only - but actively soliciting volunteers to carry on the work through April!
 
 ### Diaperbase
 
