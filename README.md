@@ -12,6 +12,7 @@ As do gooders, we will be helping to build a brand new volunteer portal for CASA
 * Github: https://github.com/rubyforgood/casa
 * Slack channel: #casa
 * Team leads: `@Linda (compiledwrong)` + `@Eric Tillberg`
+* Project Duration: All of April
 
 ### Pinto Abalone
 
