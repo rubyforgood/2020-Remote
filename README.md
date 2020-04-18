@@ -1,5 +1,7 @@
 # 2020 Ruby For Good - Remote
 
+We do most of our coordination and planning for our projects on slack. Grab an invite to our slack channel [here](https:\\rubyforgood.herokuapp.com). After joining slack ping `polly`, `sean`, `tundal45`, `MK McKenzie`, `jtu` or one of the slack contacts below with any questions on projects that could use some assistance. Or just jump to their repos and look for open issues!
+
 ### CASA
 
 Each day 8,775 incidents of child abuse and neglect are reported nationwide and approximately 1,188 children are removed from their homes and placed in foster care or residential treatment centers. Today, at least three children will die as a result of abuse and neglect. Though awareness of this national issue is increasing, it is important to remember that abuse and neglect effects all communities.
@@ -11,8 +13,7 @@ As do gooders, we will be helping to build a brand new volunteer portal for CASA
 
 * Github: https://github.com/rubyforgood/casa
 * Slack channel: #casa
-* Team leads: `@Linda (compiledwrong)` + `@Eric Tillberg`
-* Project Duration: All of April
+* Slack Contacts: `@Linda (compiledwrong)` + `@Eric Tillberg`
 
 ### Pinto Abalone
 
@@ -22,8 +23,7 @@ From a technical standpoint, we'll be building on existing work for one subspeci
 
 * Github: https://github.com/rubyforgood/abalone/
 * Slack channel: #pinto-abalone
-* Team leads: `@corneliusellen` + `@Wise Emily`
-* Project duration: weekend only - but actively soliciting volunteers to carry on the work through April!
+* Slack Contacts: `@Michael Dworken`
 
 ### Diaperbase
 
@@ -32,8 +32,7 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 * Github: https://github.com/rubyforgood/diaper
 * Github: https://github.com/rubyforgood/partner
 * Slack channel: #diaper
-* Team Leads: `@A-A-ron`, `@Michael Dworken`, `@edwinthinks`
-* Project duration: All of April
+* Slack Contacts: `@A-A-ron`, `@edwinthinks`
 
 ### Free Forest School
 What if kids could learn while playing outdoors?  They can!  Research shows unstructured play is greatly beneficial to children's development.  Free Forest School organizes local chapters to support children explore and learn while outdoors.
@@ -42,8 +41,7 @@ Our project will help parents and teachers (or maybe even kids!) find Free Fores
 
 * Github: https://github.com/rubyforgood/freeforest
 * Slack channel: #freeforest
-* Team leads: `@Albert` + `@Brandon Weaver`
-* Project duration: 
+* Slack Contacts: `@Albert` + `@Brandon Weaver`
 
 ### TerraStories
 
@@ -51,5 +49,4 @@ Indigenous people have lived in the Amazon rainforest in South America for thous
 
 * Github: https://github.com/rubyforgood/terrastories
 * Slack channel: #terrastories
-* Team Leads: `@maebeale`, `@Ian Norris`
-* Project duration: All of April
+* Slack Contacts: `@maebeale`, `@Ian Norris`
