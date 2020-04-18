@@ -1,6 +1,6 @@
 # 2020 Ruby For Good - Remote
 
-We do most of our coordination and planning for our projects on slack. Grab an invite to our slack channel [here](https:\\rubyforgood.herokuapp.com). After joining slack ping `polly`, `sean`, `tundal45`, `MK McKenzie`, `jtu` or one of the slack contacts below with any questions on projects that could use some assistance. Or just jump to their repos and look for open issues!
+We do most of our coordination and planning for our projects on slack. Grab an invite to our slack channel [here](https://rubyforgood.herokuapp.com). After joining slack ping `polly`, `sean`, `tundal45`, `MK McKenzie`, `jtu` or one of the slack contacts below with any questions on projects that could use some assistance. Or just jump to their repos and look for open issues!
 
 ### CASA
 
