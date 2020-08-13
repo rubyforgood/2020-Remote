@@ -25,5 +25,5 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 * Github: https://github.com/rubyforgood/diaper
 * Github: https://github.com/rubyforgood/partner
 * Slack channel: #diaper
-* Slack Contacts: `@Albert`, `@edwin`, `@gia`, `@scott, `@vince`
+* Slack Contacts: `@Albert`, `@edwin`, `@gia`, `@scott`, `@vince`
 
