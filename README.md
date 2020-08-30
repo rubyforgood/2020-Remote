@@ -11,11 +11,11 @@ Each day 8,775 incidents of child abuse and neglect are reported nationwide and 
 **C**ourt **A**ppointed **S**pecial **A**dvocate (**CASA**) is a volunteer based organization that partners with the juvenile court to improve the lives of abused and neglected children living in foster care. These extraordinary volunteer advocates work one-on-one with children, getting to know them, talking to the important people in their lives, working to understand them, not just their legal case. These volunteer advocates then go to Court with them, not only to hold their hand but to advocate for them. They provide written and oral reports to the Court that
 protect children’s fundamental right to live in safety.
 
-As do gooders, we will be helping to build a brand new volunteer portal for CASA. Given there are chapters of CASA throught the continental US, this project will definitely need to embrace multi-tenancy. We will need both JavaScript and Rails developers!
+We are putting the finishing touches on a new volunteer management web application for CASA. As volunteers and staff belonging to a CASA chapter in Maryland are being onboarded to the application, we will be developing new features, making system improvements, and building out multitenancy so that other CASA chapters across the U.S. can use this system in the future. We need both JavaScript and Rails developers, as well as designers! We welcome contributors of all skill levels.
 
 * Github: https://github.com/rubyforgood/casa
 * Slack channel: #casa
-* Slack Contacts: `@Linda (compiledwrong)` + `@Zoe`
+* Slack Contacts: `@Linda (compiledwrong)` + `@Zoe + @jennifer + @adam`
 
 ### Chicago Tool Library
 
