@@ -12,7 +12,7 @@ At this event we will be working toward the initial MVP with hopes of delivery i
 
 * Github: https://github.com/rubyforgood/abalone/
 * Slack channel: #abalone
-* Slack Contacts: `@benreyn (He/Him)`, `@Michael Dworken`, `@Monique (she/her)`, `craig (he/him)`
+* Slack Contacts: `@benreyn (He/Him)`, `Michael Dworken (He/Him)`, `@Monique (she/her)`, `craig (he/him)`
 
 ### CASA
 
