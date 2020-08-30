@@ -19,7 +19,7 @@ As do gooders, we will be helping to build a brand new volunteer portal for CASA
 
 ### Chicago Tool Library
 
-Launched in the summer of 2019, The Chicago Tool Library is Chicago’s first community tool lending library. The Chicago Tool Library breaks down barriers to using tools and by so doing combats inequitable and wasteful consumerism and builds community and opportunities for growth. The coronavirus pandemic has increased the need and desire for people to borrow tools, and the Libary's growth is increasing the need for software to support the Libary's staff and users.
+Launched in the summer of 2019, The Chicago Tool Library is Chicago’s first community tool lending library. The Chicago Tool Library breaks down barriers to using tools in order to (1) combat inequitable and wasteful consumerism, (2) build community, and (3) create opportunities for growth. The coronavirus pandemic has increased the need and desire for people to borrow tools. The Library's membership is growing, increasing the need for software to support the Libary's staff and users.
 
 Chicago Tool Library has an existing Rails app, circulate, which Ruby For Good is adopting and building new features for. The main need is a set of features for members, including logging in, looking at check-out status, looking at check-out history, changing account information, and requesting/reserving tools. These features will allow members to manage their loans and account settings themselves, while decreasing the load on volunteer staff. Some of this functionality may be able to be adapted from the RFG Babywearing code base.
 
