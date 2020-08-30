@@ -4,6 +4,16 @@
 
 We do most of our coordination and planning for our projects on slack. Grab an invite to our slack channel [here](https://rubyforgood.herokuapp.com). After joining slack ping `craig`, `gia` `polly`, `sean` or one of the slack contacts below with any questions on projects that could use some assistance. Or just jump to their repos and look for open issues!
 
+### Abalone
+
+Abalones are marine mollusks that were once hunted nearly to extinction, and are slowly making a comeback thanks to diligent conservancy efforts.  Abalone conservationists release captive-bred animals to bolster wild populations -- but how do they know which animal pairings will make the most and hardiest abalone babies, or reduce inbreeding dangers? Your code will directly support these conservancy challenges! This application will serve as a data tracking and analytics system for Abalone population trends, mortality rates, and breeding programs to help save the species from extinction. It aims to support restoration efforts for pinto and white abalone and has the potential to serve more groups conducting similar research and restoration efforts.
+
+At this event we will be working toward the initial MVP with hopes of delivery in Fall 2020. Some of the technical challenges include working with CSV files, multi-tenancy and visual data representation. One of the goals during the event is also to scope out any remaining work and prepare the application to accept contributions during Hacktoberfest. This project has issues suitable for all skill levels, from beginner to more experienced developers.
+
+* Github: https://github.com/rubyforgood/abalone/
+* Slack channel: #abalone
+* Slack Contacts: `@benreyn (He/Him)`, `@Michael Dworken`, `@Monique (she/her)`, `craig (he/him)`
+
 ### CASA
 
 Each day 8,775 incidents of child abuse and neglect are reported nationwide and approximately 1,188 children are removed from their homes and placed in foster care or residential treatment centers. Today, at least three children will die as a result of abuse and neglect. Though awareness of this national issue is increasing, it is important to remember that abuse and neglect effects all communities.
