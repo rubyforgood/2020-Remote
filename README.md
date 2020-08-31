@@ -25,7 +25,7 @@ We are putting the finishing touches on a new volunteer management web applicati
 
 * Github: https://github.com/rubyforgood/casa
 * Slack channel: #casa
-* Slack Contacts: `@Linda - CASA` + `@Zoe + @jennifer + @adam`
+* Slack Contacts: `@Linda + @Zoe + @jennifer + @adam`
 
 ### Chicago Tool Library
 
