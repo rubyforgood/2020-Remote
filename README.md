@@ -6,15 +6,19 @@ We do most of our coordination and planning for our projects on slack. Grab an i
 
 ### Abalone
 
+#### [Ruby for Good Abalone Issues](https://github.com/rubyforgood/abalone/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+
 Abalones are marine mollusks that were once hunted nearly to extinction, and are slowly making a comeback thanks to diligent conservancy efforts.  Abalone conservationists release captive-bred animals to bolster wild populations -- but how do they know which animal pairings will make the most and hardiest abalone babies, or reduce inbreeding dangers? Your code will directly support these conservancy challenges! This application will serve as a data tracking and analytics system for Abalone population trends, mortality rates, and breeding programs to help save the species from extinction. It aims to support restoration efforts for pinto and white abalone and has the potential to serve more groups conducting similar research and restoration efforts.
 
 At this event we will be working toward the initial MVP with hopes of delivery in Fall 2020. Some of the technical challenges include working with CSV files, multi-tenancy and visual data representation. One of the goals during the event is also to scope out any remaining work and prepare the application to accept contributions during Hacktoberfest. This project has issues suitable for all skill levels, from beginner to more experienced developers.
 
-* Github: https://github.com/rubyforgood/abalone/ [Ruby for Good Issues](https://github.com/rubyforgood/abalone/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+* Github: https://github.com/rubyforgood/abalone/
 * Slack channel: #abalone
 * Slack Contacts: `@benreyn (He/Him)`, `Michael Dworken (He/Him)`, `@Monique (she/her)`, `craig (he/him)`
 
 ### CASA
+
+#### [Ruby for Good CASA Issues](https://github.com/rubyforgood/casa/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 
 Each day 8,775 incidents of child abuse and neglect are reported nationwide and approximately 1,188 children are removed from their homes and placed in foster care or residential treatment centers. Today, at least three children will die as a result of abuse and neglect. Though awareness of this national issue is increasing, it is important to remember that abuse and neglect effects all communities.
 
@@ -23,11 +27,13 @@ protect children’s fundamental right to live in safety.
 
 We are putting the finishing touches on a new volunteer management web application for CASA. As volunteers and staff belonging to a CASA chapter in Maryland are being onboarded to the application, we will be developing new features, making system improvements, and building out multitenancy so that other CASA chapters across the U.S. can use this system in the future. We need both JavaScript and Rails developers, as well as designers! We welcome contributors of all skill levels.
 
-* Github: https://github.com/rubyforgood/casa [Ruby for Good Issues](https://github.com/rubyforgood/casa/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+* Github: https://github.com/rubyforgood/casa
 * Slack channel: #casa
 * Slack Contacts: `@Linda + @Zoe + @jennifer + @adam`
 
 ### Chicago Tool Library
+
+#### [Ruby for Good Circulate Issues](https://github.com/rubyforgood/circulate/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 
 Launched in the summer of 2019, The Chicago Tool Library is Chicago’s first community tool lending library. The Chicago Tool Library breaks down barriers to using tools in order to (1) combat inequitable and wasteful consumerism, (2) build community, and (3) create opportunities for growth. The coronavirus pandemic has increased the need and desire for people to borrow tools. The Library's membership is growing, increasing the need for software to support the Libary's staff and users.
 
@@ -35,22 +41,27 @@ Chicago Tool Library has an existing Rails app, circulate, which Ruby For Good i
 
 Additionally, we would like to set up the Chicago Tool Library code base to be multi-tenant, and/or generalizable to any lending non-profit, so that other tools libraries and other libraries generally could use.
  
-* Github: https://github.com/rubyforgood/circulate [Ruby for Good Issues](https://github.com/rubyforgood/circulate/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+* Github: https://github.com/rubyforgood/circulate
 * Slack channel: #circulate
 * Slack Contacts: `@Richard Kim (he/him)`, `@robbkidd - circulate`, `@John K Sawers`
 
 
 ### Diaperbase
 
+#### [Ruby for Good Diaper Issues](https://github.com/rubyforgood/diaper/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+#### [Ruby for Good Partner Issues](https://github.com/rubyforgood/partner/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+
 Each month over 350,000 children are helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be using the SaaS that we built last year, making it more robust, and polishing it off to be demoed at the National Diaperbank Network conference later this year. Our goal is for this one to be the best Inventory management product available at the lowest (or "no") cost to diaperbanks. We will be working in tandem with PartnerBase, which is a CRM for Community Partners that will work with the Diaperbanks to handle distribution / order fulfillment /family interaction.
  
-* Github: https://github.com/rubyforgood/diaper [Ruby for Good Issues](https://github.com/rubyforgood/diaper/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
-* Github: https://github.com/rubyforgood/partner [Ruby for Good Issues](https://github.com/rubyforgood/partner/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+* Github: https://github.com/rubyforgood/diaper
+* Github: https://github.com/rubyforgood/partner
 
 * Slack channel: #diaper
 * Slack Contacts: `@Albert`, `@edwin`, `@gia`, `@scott`, `@vince`
 
 ### Mutual Aid
+
+#### [Ruby for Good Mutual Aid Issues](https://github.com/rubyforgood/mutual-aid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 
 Mutual Aid is when people get together to build community by volunarily sharing resources with each other. Mutual Aid groups are more concerned about local resiliency than global campaigns, and prefer solidarity before charity. Mutual aid groups have existed around the world for over 200 years. Mutual aid groups generally prioritize the needs of minorities and other underserved communities.
 
@@ -63,6 +74,6 @@ Our current status is that dispatcher capacity is waning as local goverments res
 
 We would love contributions from newbies, experienced devs, UX/UI designers and PM folks. We'll have tickets for people to work on as individuals, and we'll have pairing and groupings available too. Hope to see you in #mutualaid and/or the social events being held!
 
-* Github: https://github.com/rubyforgood/mutual-aid [Ruby for Good Issues](https://github.com/rubyforgood/mutual-aid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+* Github: https://github.com/rubyforgood/mutual-aid 
 * Slack channel: #mutualaid
 * Slack Contacts: `@maebeale`, `@lasitha`, `@Howard`, `@Robin`, `@Siv Jones`
