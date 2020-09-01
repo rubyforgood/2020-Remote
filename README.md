@@ -50,4 +50,19 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 * Slack channel: #diaper
 * Slack Contacts: `@Albert`, `@edwin`, `@gia`, `@scott`, `@vince`
 
+### Mutual Aid
 
+Mutual Aid is when people get together to build community by volunarily sharing resources with each other. Mutual Aid groups are more concerned about local resiliency than global campaigns, and prefer solidarity before charity. Mutual aid groups have existed around the world for over 200 years. Mutual aid groups generally prioritize the needs of minorities and other underserved communities.
+
+* About mutual aid, a list:  https://bigdoorbrigade.wordpress.com/2017/01/31/what-do-we-mean-by-mutual-aid/
+* About mutual aid, a video that covers a lot of ground https://www.deanspade.net/2019/07/10/animated-video-about-mutual-aid/
+
+Many people working in mutual aid were overwhelemed by requests early this year due to the COVID pandemic. Some of these groups were relying on dispatchers to match up people who could help each other. These dispatchers were in turn relying on spreadsheets, and the spreadsheets grew to be unmanagable. We've created an app to help. Seven mutual aid groups in cities across the country are now using this app. 
+
+Our current status is that dispatcher capacity is waning as local goverments restart schools and lift pandemic bans. We have some bugfixes and small tickets to address this problem. We're also looking for people who are willing to spend a few days digging in to our new peer-to-peer communication path that will ease how much we rely on dispatchers.
+
+We would love contributions from newbies, experienced devs, UX/UI designers and PM folks. We'll have tickets for people to work on as individuals, and we'll have pairing and groupings available too. Hope to see you in #mutualaid and/or the social events being held!
+
+* Github: https://github.com/rubyforgood/mutual-aid
+* Slack channel: #mutualaid
+* Slack Contacts: `@maebeale`, `@lasitha`, `@Howard`, `@Robin`, `@Siv Jones`
