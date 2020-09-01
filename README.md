@@ -10,7 +10,7 @@ Abalones are marine mollusks that were once hunted nearly to extinction, and are
 
 At this event we will be working toward the initial MVP with hopes of delivery in Fall 2020. Some of the technical challenges include working with CSV files, multi-tenancy and visual data representation. One of the goals during the event is also to scope out any remaining work and prepare the application to accept contributions during Hacktoberfest. This project has issues suitable for all skill levels, from beginner to more experienced developers.
 
-* Github: https://github.com/rubyforgood/abalone/
+* Github: https://github.com/rubyforgood/abalone/ [Ruby for Good Issues](https://github.com/rubyforgood/abalone/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 * Slack channel: #abalone
 * Slack Contacts: `@benreyn (He/Him)`, `Michael Dworken (He/Him)`, `@Monique (she/her)`, `craig (he/him)`
 
@@ -23,7 +23,7 @@ protect children’s fundamental right to live in safety.
 
 We are putting the finishing touches on a new volunteer management web application for CASA. As volunteers and staff belonging to a CASA chapter in Maryland are being onboarded to the application, we will be developing new features, making system improvements, and building out multitenancy so that other CASA chapters across the U.S. can use this system in the future. We need both JavaScript and Rails developers, as well as designers! We welcome contributors of all skill levels.
 
-* Github: https://github.com/rubyforgood/casa
+* Github: https://github.com/rubyforgood/casa [Ruby for Good Issues](https://github.com/rubyforgood/casa/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 * Slack channel: #casa
 * Slack Contacts: `@Linda + @Zoe + @jennifer + @adam`
 
@@ -35,18 +35,18 @@ Chicago Tool Library has an existing Rails app, circulate, which Ruby For Good i
 
 Additionally, we would like to set up the Chicago Tool Library code base to be multi-tenant, and/or generalizable to any lending non-profit, so that other tools libraries and other libraries generally could use.
  
-* Github: https://github.com/rubyforgood/circulate
+* Github: https://github.com/rubyforgood/circulate [Ruby for Good Issues](https://github.com/rubyforgood/circulate/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 * Slack channel: #circulate
 * Slack Contacts: `@Richard Kim (he/him)`, `@robbkidd - circulate`, `@John K Sawers`
-
 
 
 ### Diaperbase
 
 Each month over 350,000 children are helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be using the SaaS that we built last year, making it more robust, and polishing it off to be demoed at the National Diaperbank Network conference later this year. Our goal is for this one to be the best Inventory management product available at the lowest (or "no") cost to diaperbanks. We will be working in tandem with PartnerBase, which is a CRM for Community Partners that will work with the Diaperbanks to handle distribution / order fulfillment /family interaction.
  
-* Github: https://github.com/rubyforgood/diaper
-* Github: https://github.com/rubyforgood/partner
+* Github: https://github.com/rubyforgood/diaper [Ruby for Good Issues](https://github.com/rubyforgood/diaper/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+* Github: https://github.com/rubyforgood/partner [Ruby for Good Issues](https://github.com/rubyforgood/partner/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+
 * Slack channel: #diaper
 * Slack Contacts: `@Albert`, `@edwin`, `@gia`, `@scott`, `@vince`
 
@@ -63,6 +63,6 @@ Our current status is that dispatcher capacity is waning as local goverments res
 
 We would love contributions from newbies, experienced devs, UX/UI designers and PM folks. We'll have tickets for people to work on as individuals, and we'll have pairing and groupings available too. Hope to see you in #mutualaid and/or the social events being held!
 
-* Github: https://github.com/rubyforgood/mutual-aid
+* Github: https://github.com/rubyforgood/mutual-aid [Ruby for Good Issues](https://github.com/rubyforgood/mutual-aid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 * Slack channel: #mutualaid
 * Slack Contacts: `@maebeale`, `@lasitha`, `@Howard`, `@Robin`, `@Siv Jones`
