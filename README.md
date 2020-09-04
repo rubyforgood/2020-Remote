@@ -40,7 +40,7 @@ Launched in the summer of 2019, The Chicago Tool Library is Chicago’s first co
 Chicago Tool Library has an existing Rails app, circulate, which Ruby For Good is adopting and building new features for. The main need is a set of features for members, including logging in, looking at check-out status, looking at check-out history, changing account information, and requesting/reserving tools. These features will allow members to manage their loans and account settings themselves, while decreasing the load on volunteer staff. Some of this functionality may be able to be adapted from the RFG Babywearing code base.
 
 Additionally, we would like to set up the Chicago Tool Library code base to be multi-tenant, and/or generalizable to any lending non-profit, so that other tools libraries and other libraries generally could use.
- 
+
 * Github: https://github.com/rubyforgood/circulate
 * Slack channel: #circulate
 * Slack Contacts: `@Richard Kim (he/him)`, `@robbkidd - circulate`, `@John K Sawers`
@@ -52,7 +52,7 @@ Additionally, we would like to set up the Chicago Tool Library code base to be m
 #### [Ruby for Good Partner Issues](https://github.com/rubyforgood/partner/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 
 Each month over 350,000 children are helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be using the SaaS that we built last year, making it more robust, and polishing it off to be demoed at the National Diaperbank Network conference later this year. Our goal is for this one to be the best Inventory management product available at the lowest (or "no") cost to diaperbanks. We will be working in tandem with PartnerBase, which is a CRM for Community Partners that will work with the Diaperbanks to handle distribution / order fulfillment /family interaction.
- 
+
 * Github: https://github.com/rubyforgood/diaper
 * Github: https://github.com/rubyforgood/partner
 
@@ -61,22 +61,23 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 
 ### Mutual Aid
 
-#### [Ruby for Good Mutual Aid Issues](https://github.com/rubyforgood/mutual-aid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+#### [Ruby for Good Mutual Aid Issues](https://github.com/rubyforgood/mutual-aid/projects/4?card_filter_query=label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 
 Mutual Aid is when people get together to build community by volunarily sharing resources with each other. Mutual Aid groups are more concerned about local resiliency than global campaigns, and prefer solidarity before charity. Mutual aid groups have existed around the world for over 200 years. Mutual aid groups generally prioritize the needs of minorities and other underserved communities.
 
 * About mutual aid, a list:  https://bigdoorbrigade.wordpress.com/2017/01/31/what-do-we-mean-by-mutual-aid/
 * About mutual aid, a video that covers a lot of ground https://www.deanspade.net/2019/07/10/animated-video-about-mutual-aid/
 
-Many people working in mutual aid were overwhelemed by requests early this year due to the COVID pandemic. Some of these groups were relying on dispatchers to match up people who could help each other. These dispatchers were in turn relying on spreadsheets, and the spreadsheets grew to be unmanagable. We've created an app to help. Seven mutual aid groups in cities across the country are now using this app. 
+Many people working in mutual aid were overwhelemed by requests early this year due to the COVID pandemic. Some of these groups were relying on dispatchers to match up people who could help each other. These dispatchers were in turn relying on spreadsheets, and the spreadsheets grew to be unmanagable. We've created an app to help. Seven mutual aid groups in cities across the country are now using this app.
 
 Our current status is that dispatcher capacity is waning as local goverments restart schools and lift pandemic bans. We have some bugfixes and small tickets to address this problem. We're also looking for people who are willing to spend a few days digging in to our new peer-to-peer communication path that will ease how much we rely on dispatchers.
 
 We would love contributions from newbies, experienced devs, UX/UI designers and PM folks. We'll have tickets for people to work on as individuals, and we'll have pairing and groupings available too. Hope to see you in #mutualaid and/or the social events being held!
 
-* Github: https://github.com/rubyforgood/mutual-aid 
+* Github: https://github.com/rubyforgood/mutual-aid
 * Slack channel: #mutualaid
-* Slack Contacts: `@maebeale`, `@lasitha`, `@Howard`, `@Robin`, `@Siv Jones`
+* Slack contacts: `@maebeale`, `@lasitha`, `@Howard`, `@svetlana`, PM support: `@Ginger`
+* Stakeholder reps on slack: `@Robin`, `@Siv Jones`
 
 
 ## Additional Issues available in...  
