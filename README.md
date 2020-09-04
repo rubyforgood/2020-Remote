@@ -61,7 +61,7 @@ Each month over 350,000 children are helped by diaper banks, forgoing their pare
 
 ### Mutual Aid
 
-#### [Ruby for Good Mutual Aid Issues](https://github.com/rubyforgood/mutual-aid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+#### [Ruby for Good Mutual Aid Issues](https://github.com/rubyforgood/mutual-aid/projects/4?card_filter_query=label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 
 Mutual Aid is when people get together to build community by volunarily sharing resources with each other. Mutual Aid groups are more concerned about local resiliency than global campaigns, and prefer solidarity before charity. Mutual aid groups have existed around the world for over 200 years. Mutual aid groups generally prioritize the needs of minorities and other underserved communities.
 
@@ -74,6 +74,7 @@ Our current status is that dispatcher capacity is waning as local goverments res
 
 We would love contributions from newbies, experienced devs, UX/UI designers and PM folks. We'll have tickets for people to work on as individuals, and we'll have pairing and groupings available too. Hope to see you in #mutualaid and/or the social events being held!
 
-* Github: https://github.com/rubyforgood/mutual-aid 
+* Github: https://github.com/rubyforgood/mutual-aid
 * Slack channel: #mutualaid
-* Slack Contacts: `@maebeale`, `@lasitha`, `@Howard`, `@Robin`, `@Siv Jones`
+* Slack contacts: `@maebeale`, `@lasitha`, `@Howard`, `@svetlana`, PM support: `@Ginger`
+* Stakeholder reps on slack: `@Robin`, `@Siv Jones`
