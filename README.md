@@ -40,7 +40,7 @@ Launched in the summer of 2019, The Chicago Tool Library is Chicago’s first co
 Chicago Tool Library has an existing Rails app, circulate, which Ruby For Good is adopting and building new features for. The main need is a set of features for members, including logging in, looking at check-out status, looking at check-out history, changing account information, and requesting/reserving tools. These features will allow members to manage their loans and account settings themselves, while decreasing the load on volunteer staff. Some of this functionality may be able to be adapted from the RFG Babywearing code base.
 
 Additionally, we would like to set up the Chicago Tool Library code base to be multi-tenant, and/or generalizable to any lending non-profit, so that other tools libraries and other libraries generally could use.
- 
+
 * Github: https://github.com/rubyforgood/circulate
 * Slack channel: #circulate
 * Slack Contacts: `@Richard Kim (he/him)`, `@robbkidd - circulate`, `@John K Sawers`
@@ -52,7 +52,7 @@ Additionally, we would like to set up the Chicago Tool Library code base to be m
 #### [Ruby for Good Partner Issues](https://github.com/rubyforgood/partner/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
 
 Each month over 350,000 children are helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be using the SaaS that we built last year, making it more robust, and polishing it off to be demoed at the National Diaperbank Network conference later this year. Our goal is for this one to be the best Inventory management product available at the lowest (or "no") cost to diaperbanks. We will be working in tandem with PartnerBase, which is a CRM for Community Partners that will work with the Diaperbanks to handle distribution / order fulfillment /family interaction.
- 
+
 * Github: https://github.com/rubyforgood/diaper
 * Github: https://github.com/rubyforgood/partner
 
@@ -68,7 +68,7 @@ Mutual Aid is when people get together to build community by volunarily sharing 
 * About mutual aid, a list:  https://bigdoorbrigade.wordpress.com/2017/01/31/what-do-we-mean-by-mutual-aid/
 * About mutual aid, a video that covers a lot of ground https://www.deanspade.net/2019/07/10/animated-video-about-mutual-aid/
 
-Many people working in mutual aid were overwhelemed by requests early this year due to the COVID pandemic. Some of these groups were relying on dispatchers to match up people who could help each other. These dispatchers were in turn relying on spreadsheets, and the spreadsheets grew to be unmanagable. We've created an app to help. Seven mutual aid groups in cities across the country are now using this app. 
+Many people working in mutual aid were overwhelemed by requests early this year due to the COVID pandemic. Some of these groups were relying on dispatchers to match up people who could help each other. These dispatchers were in turn relying on spreadsheets, and the spreadsheets grew to be unmanagable. We've created an app to help. Seven mutual aid groups in cities across the country are now using this app.
 
 Our current status is that dispatcher capacity is waning as local goverments restart schools and lift pandemic bans. We have some bugfixes and small tickets to address this problem. We're also looking for people who are willing to spend a few days digging in to our new peer-to-peer communication path that will ease how much we rely on dispatchers.
 
@@ -78,3 +78,18 @@ We would love contributions from newbies, experienced devs, UX/UI designers and 
 * Slack channel: #mutualaid
 * Slack contacts: `@maebeale`, `@lasitha`, `@Howard`, `@svetlana`, PM support: `@Ginger`
 * Stakeholder reps on slack: `@Robin`, `@Siv Jones`
+
+
+## Additional Issues available in...  
+
+### Terrastories
+
+#### [Issues](https://github.com/Terrastories/terrastories/issues?q=is%3Aopen+is%3Aissue+label%3A%22Ruby+For+Good+%F0%9F%8E%83+Fall+2020%22)
+
+Terrastories is a geostorytelling application built to enable indigenous and other local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. Community members can add places and stories through a user-friendly interface, and make decisions about designating certain stories as private or restricted. It is a dockerized Rails app that uses Mapbox to help users locate content geographically on an interactive map. Terrastories is designed to be entirely offline-compatible, so that remote communities can access the application entirely without needing internet connectivity.
+
+The Terrastories interface is principally composed of an interactive map and a sidebar with media content. Users can explore the map and click on activated points to see the stories associated with those points. Alternatively, users can interact with the sidebar and click on stories to see where in the landscape these narratives took place. Through an administrative back end, users can also add, edit, and remove stories, or set them as restricted so that they are viewable only with a special login. Users can design and customize the content of the interactive map entirely, and the interface itself is customizable with a color scheme and design reflecting the style of the community.
+
+* Github: https://github.com/Terrastories/terrastories
+* Slack channel: #terrastories
+* Slack Contacts: `Ian Norris -- Terrastories Lead (he/him)`, `@miranda (she/her) -- terrastories lead`, `@Rudo Kemper (he/him) -- terrastories lead`
